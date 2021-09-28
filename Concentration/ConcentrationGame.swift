@@ -39,6 +39,7 @@ class ConcentrationGame {
 //            cards.append(card)
             cards += [card,card]
         }
+        // TODO: Shuffle the cards
     }
     
 }
